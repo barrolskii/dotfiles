@@ -8,7 +8,6 @@ set number
 
 set nohlsearch
 set incsearch
-
 "set termguicolors
 set splitbelow splitright
 
